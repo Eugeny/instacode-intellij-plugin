@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InstacodeIdea:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InstacodeIdea_jar</output-path>
+    <root id="archive" name="InstacodeIdea.jar">
+      <element id="module-output" name="InstacodeIdea" />
+    </root>
+  </artifact>
+</component>
